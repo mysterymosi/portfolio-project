@@ -109,7 +109,7 @@ span {
 .back-to-top {
   position: fixed;
   display: none;
-  background: #71c55d;
+  background: #e07a5f;
   line-height: 1;
   color: #fff;
   padding: 7px 12px 13px 12px;
@@ -127,7 +127,7 @@ span {
 }
 
 .back-to-top:focus {
-  background: #71c55d;
+  background: #e07a5f;
   color: #fff;
   outline: none;
 }
@@ -172,7 +172,7 @@ span {
 }
 
 #header #logo h1 a span {
-  color: #71c55d;
+  color: #e07a5f;
 }
 
 #header #logo img {
@@ -264,14 +264,14 @@ span {
   border-radius: 50px;
   transition: 0.5s;
   margin-bottom: 30px;
-  border: 2px solid #71c55d;
+  border: 2px solid #e07a5f;
   background: #fff;
-  color: #71c55d;
+  color: #e07a5f;
   text-decoration: none;
 }
 
 #hero .btn-get-started:hover {
-  background: #71c55d;
+  background: #e07a5f;
   color: #fff;
 }
 
@@ -292,7 +292,7 @@ span {
 }
 
 #hero .btns a:hover {
-  color: #71c55d;
+  color: #e07a5f;
 }
 
 /*--------------------------------------------------------------
@@ -382,7 +382,7 @@ span {
 }
 
 .nav-menu li:hover > a, .nav-menu > .menu-active > a {
-  color: #71c55d;
+  color: #e07a5f;
 }
 
 .nav-menu > li {
@@ -410,7 +410,7 @@ span {
 }
 
 .nav-menu ul li:hover > a {
-  color: #71c55d;
+  color: #e07a5f;
 }
 
 .nav-menu ul ul {
@@ -499,11 +499,11 @@ span {
 }
 
 #mobile-nav ul .menu-has-children i.fa-chevron-up {
-  color: #71c55d;
+  color: #e07a5f;
 }
 
 #mobile-nav ul .menu-item-active {
-  color: #71c55d;
+  color: #e07a5f;
 }
 
 #mobile-body-overly {
@@ -620,7 +620,7 @@ body.mobile-nav-active #mobile-nav-toggle i {
 }
 
 #get-started .feature-block a:hover {
-  color: #71c55d;
+  color: #e07a5f;
 }
 
 /* About Us Section
@@ -711,7 +711,7 @@ body.mobile-nav-active #mobile-nav-toggle i {
 }
 
 .owl-theme .owl-dots .owl-dot.active span, .owl-theme .owl-dots .owl-dot:hover span {
-  background: #71c55d;
+  background: #e07a5f;
 }
 
 .owl-theme .owl-dots .owl-dot span {
@@ -736,7 +736,7 @@ body.mobile-nav-active #mobile-nav-toggle i {
 #video .overlay .play-btn {
   width: 94px;
   height: 94px;
-  background: radial-gradient(#71c55d 50%, rgba(113, 197, 93, 0.15) 52%);
+  background: radial-gradient(#e07a5f 50%, rgba(113, 197, 93, 0.15) 52%);
   border-radius: 50%;
   display: block;
   margin: 153px auto 0;
@@ -784,7 +784,7 @@ body.mobile-nav-active #mobile-nav-toggle i {
 }
 
 #video .overlay .play-btn:hover::after {
-  border-left: 15px solid #71c55d;
+  border-left: 15px solid #e07a5f;
   -webkit-transform: scale(20);
   transform: scale(20);
 }
@@ -899,7 +899,7 @@ body.mobile-nav-active #mobile-nav-toggle i {
 }
 
 #team .team-block .team-content ul li a .fa:hover {
-  color: #71c55d;
+  color: #e07a5f;
 }
 
 #team .team-block .team-content ul > span {
@@ -924,7 +924,7 @@ body.mobile-nav-active #mobile-nav-toggle i {
 }
 
 /*#testimonials .testimonials-content::before {
-  color: #71c55d;
+  color: #e07a5f;
   content: "";
   display: inline-block;
   font: 70px/1 FontAwesome;
@@ -968,7 +968,7 @@ body.mobile-nav-active #mobile-nav-toggle i {
 }
 
 #testimonials .btm-btm .active {
-  background: #71c55d;
+  background: #e07a5f;
 }
 
 .carousel-indicators {
@@ -1040,7 +1040,7 @@ body.mobile-nav-active #mobile-nav-toggle i {
 }
 
 #pricing .block-pricing .table .table_btn a {
-  background: #71c55d;
+  background: #e07a5f;
   color: #fff;
   margin: 0;
   display: inline-block;
@@ -1091,7 +1091,7 @@ body.mobile-nav-active #mobile-nav-toggle i {
 }
 
 #blog .block-blog .content-blog h4 a:hover {
-  color: #71c55d;
+  color: #e07a5f;
 }
 
 #blog .block-blog .content-blog > span {
@@ -1110,7 +1110,7 @@ body.mobile-nav-active #mobile-nav-toggle i {
 }
 
 #blog .block-blog .content-blog a.readmore:hover {
-  color: #71c55d;
+  color: #e07a5f;
 }
 
 /* Newsletter Section
@@ -1147,13 +1147,13 @@ body.mobile-nav-active #mobile-nav-toggle i {
 }
 
 #newsletter .form-control:focus {
-  border-color: #71c55d;
+  border-color: #e07a5f;
   box-shadow: none;
   outline: 0 none;
 }
 
 #newsletter .btn {
-  background: #71c55d;
+  background: #e07a5f;
   border: 0;
   border-radius: 0;
   height: 50px;
@@ -1182,7 +1182,7 @@ body.mobile-nav-active #mobile-nav-toggle i {
 }
 
 #newsletter ul li {
-  background: #71c55d;
+  background: #e07a5f;
   border-radius: 50px;
   float: left;
   height: 35px;
@@ -1213,7 +1213,7 @@ body.mobile-nav-active #mobile-nav-toggle i {
 
 #contact .info i {
   font-size: 32px;
-  color: #71c55d;
+  color: #e07a5f;
   float: left;
 }
 
@@ -1235,7 +1235,7 @@ body.mobile-nav-active #mobile-nav-toggle i {
 #contact .social-links a {
   font-size: 18px;
   display: inline-block;
-  background: #71c55d;
+  background: #e07a5f;
   color: #fff;
   line-height: 1;
   padding: 6px 0 8px 0;
@@ -1247,13 +1247,13 @@ body.mobile-nav-active #mobile-nav-toggle i {
 }
 
 #contact .social-links a:hover {
-  background: #55b03f;
+  background: #e29578;
   color: #fff;
 }
 
 #contact .form #sendmessage {
-  color: #71c55d;
-  border: 1px solid #71c55d;
+  color: #e07a5f;
+  border: 1px solid #e07a5f;
   display: none;
   text-align: center;
   padding: 15px;
@@ -1292,7 +1292,7 @@ body.mobile-nav-active #mobile-nav-toggle i {
 }
 
 #contact .form button[type="submit"] {
-  background: #71c55d;
+  background: #e07a5f;
   border: 0;
   padding: 10px 24px;
   color: #fff;
@@ -1300,7 +1300,7 @@ body.mobile-nav-active #mobile-nav-toggle i {
 }
 
 #contact .form button[type="submit"]:hover {
-  background: #92d283;
+  background: #e29578;
 }
 
 /*--------------------------------------------------------------
@@ -1361,7 +1361,7 @@ body.mobile-nav-active #mobile-nav-toggle i {
 
 .footer .copyrights p a, .footer .copyrights .credits a {
   letter-spacing: 0;
-  color: #71c55d;
+  color: #e07a5f;
 }
 
 /* additional styling */
@@ -1387,14 +1387,14 @@ body.mobile-nav-active #mobile-nav-toggle i {
   border-radius: 50px;
   transition: 0.5s;
   margin-bottom: 30px;
-  border: 2px solid #71c55d;
+  border: 2px solid #e07a5f;
   background: #fff;
-  color: #71c55d;
+  color: #e07a5f;
   text-decoration: none !important;
 }
 
 .btn-about:hover {
-  background: #71c55d;
+  background: #e07a5f;
   color: #fff;
 }
 
